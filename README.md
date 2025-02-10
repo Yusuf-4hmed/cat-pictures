@@ -1,2 +1,17 @@
-# cat-pictures
-pictures of cats
+  <h3 align="center">Cat Pictures</h3>
+
+  <p align="center">
+    Endless cat pictures (refresh)
+    <br />
+  </p>
+</div>
+
+<p><a href="">View live project</a></p>
+
+### Built With
+
+* HTML
+* CSS
+* JavaScript
+* <a href="https://thecatapi.com/" target="_blank">The Cat API</a>
+
