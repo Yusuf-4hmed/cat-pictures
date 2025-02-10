@@ -1,0 +1,39 @@
+.picture-box {
+    display: flex;
+    justify-content: center;
+}
+
+.picture-box button {
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius:10px;
+    margin: auto 10px;
+    cursor: pointer;
+}
+
+.picture-box button:hover {
+    background-color: aliceblue;
+}
+
+.picture {
+    background-color: rgb(236, 236, 236);
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    
+}
+
+p {
+    font-size: 50px;
+    opacity: .7;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+img {
+    object-fit: fill;
+}
